@@ -1,0 +1,233 @@
+html {
+
+}
+
+#body{
+    height: 100%;
+
+}
+
+.navbar, .navbar-collapse {
+    background: #212121 !important;
+    border: none !important;
+    border-top: none;
+    border-bottom: none;
+    font-size: 20px;
+    color: #FAFAFA;
+    box-shadow: none;
+}
+
+
+.nav a {
+    font-family:'Rajdhani', san-serif;
+    text-decoration: none;
+    color: #FAFAFA;
+
+}
+
+.navbar-brand{
+    font-family:'Rajdhani', san-serif;
+    font-size:40px;
+    padding-top: 65px;
+    padding-left: 100px;
+    color: #FAFAFA;
+
+}
+
+.navbar-brand:hover{
+    color: #FAFAFA;
+
+}
+
+
+.navbar ul {
+    padding-top: -100px;
+    padding-bottom: -50px;
+    color: #FAFAFA;
+}
+
+#page1 .bg-1 {
+    background: #212121;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+#page2 .bg-1 {
+    background: #FAFAFA;
+    padding-top: 50px;
+    padding-bottom: 300px;
+}
+
+.row .col-5{
+    width: 41.6%;
+
+
+}
+
+#col-1{
+    list-style-type: none;
+    padding-left:200px;
+    padding-top:-10px;
+}
+
+#col-2-1{
+    list-style-type: none;
+    padding-left:90px;
+    padding-top: 185px;
+}
+
+#col-2-2{
+    list-style-type: none;
+    padding-left:90px;
+    padding-top: 30px;
+
+}
+.resume-top{
+    font-family: 'Rajdhani', san-serif;
+    font-size: 30px;
+    color:#424242;
+}
+
+
+#header{
+    font-family: 'Rajdhani', san-serif;
+    font-size: 30px;
+    color:#424242;
+    padding-top:30px;
+    padding-bottom:10px;
+}
+
+#second-header{
+    font-family: 'Rajdhani', san-serif;
+    font-size: 22px;
+    color:#424242;
+
+}
+#info{
+    font-family: 'Rajdhani', san-serif;
+    font-size: 20px;
+    color:#424242;
+
+}
+
+
+.txt{
+    font-family: 'Rajdhani', san-serif;
+    font-size: 20px;
+    color:#9E9E9E;
+
+}
+
+br{
+    padding-top: 10px;
+}
+#page1 .bg-2 {
+    background: #FAFAFA;
+    padding-top: 50px;
+    padding-bottom: 500px;
+}
+
+.name {
+    color: #FAFAFA;
+    font-family: 'Rajdhani', san-serif;
+    font-size: 100px;
+    padding-left: 150px;
+
+}
+
+.navbar-default {
+    background: #212121 !important;
+    border: none !important;
+    font-size: 20px;
+    color: #FAFAFA;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-bottom: 0;
+    z-index: 9999;
+    line-height: 1.42857143 !important;
+    border-radius: 0;
+}
+
+.row {
+    width: 100%;
+}
+
+.contact-icon {
+    color: #FAFAFA;
+}
+
+i {
+    padding-top: 10px;
+
+}
+
+.container.text-center{
+    padding-top: 10px;
+    padding-bottom: -50px;
+}
+.contact.text-center{
+    font-family:'Rajdhani', san-serif;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: -50px;
+    padding-right: 35px;
+    color: #FAFAFA;
+    font-size: 40px;
+}
+
+.phone{
+    font-family:'Rajdhani', san-serif;
+    text-decoration: none;
+    padding-top: -50px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    color: #FAFAFA;
+    font-size: 33px;
+
+}
+
+a:link {
+    color: #FAFAFA;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FAFAFA;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FAFAFA;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #FAFAFA;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#contact{
+    color: #FAFAFA;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+h6 {
+    color: #616161;
+    font-family: 'Rajdhani', san-serif;
+    font-size: 17px;
+    padding-left: 35px;
+    padding-top: 10px;
+}
+
+.footer {
+    margin: 0 !important;
+    padding: 0;
+    min-height: 300px;
+    background: #212121;
+}
