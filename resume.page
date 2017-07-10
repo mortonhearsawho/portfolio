@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Sarah Morton</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body id="page2">
+<div class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="navbar-brand"><b>Sarah Morton</b></div>
+        <ul class="nav navbar-nav pull-right navbar-collapse">
+            <li><a href="index.html">Gallery</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#">Resume</a></li>
+        </ul>
+    </div>
+    <div>
+    </div>
+</div>
+<div class="container-fluid bg-1">
+    <div class="row">
+        <div class="col-xs-6">
+            <ul id="col-1">
+                <li class="resume-top"><b>Sarah Morton</b></li>
+                <li id="info">(740)-503-0273</li>
+                <li id="info">mortonse@mail.uc.edu</li>
+                <li id="info">sarahmorton.com</li>
+                <li id="info">3731 Wheeling RD NE</li>
+                <li id="info">Lancaster, OH 43140</li>
+            </ul>
+                <ul id="col-1">
+                    <li id="header"><b>Education</b></li>
+                    <li id="second-header"><b>University of Cincinnati</b></li>
+                    <li id="info">College of Design, Architecture, Art, and Planning
+                    </li>
+                    <li id="info">Cincinnati, OH</li>
+                    <li id="info">Communication Design Major, Class of 2021</li>
+                    <li id="info">Enrolled in the Professional Practice Program,
+                        alternating semesters of study with work
+                        experience in the field of communication design.
+                    </li>
+                    <li id="info">GPA: 3.6</li>
+                </ul>
+            <ul id="col-1">
+                    <li id="header"><b>Experience</b></li>
+                    <li id="second-header"><b>Jimmy John's</b><span class="txt"> October 2012–August 2017 </span></li>
+                    <li id="info"><span class="txt">Cincinnati, OH</span></li>
+                    <li id="info"><span class="txt">Part-Time Shift Manager, Delivery Driver</span></li>
+                    <li id="info">Oversaw closing staff’s duties, completed closing shift paperwork,
+                        and counted down the register. Prepared food, completed
+                        transactions over the phone and in person, delivered food
+                        to locations, and maintained cleanliness of the store.
+                    </li>
+                    <br>
+                    <li id="second-header"><b>TownePark Valet</b><span class="txt"> April 2015–August 2015</span></li>
+                    <li id="info"><span class="txt">Cincinnati, Ohio</span></li>
+                    <li id="info"><span class="txt">Part-Time Valet Attendent</span></li>
+                    <li id="info">Assisted hotel guests with luggage as they entered hotel.
+                        Drove and parked guests’ vehicles in garage and retrieved them. Kept track of tickets corresponding to each vehicle.</li>
+                    <br>
+                    <li id="second-header"><b>Papa John's</b><span class="txt"> April 2015–August 2015 </span></li>
+                    <li id="info"><span class="txt">Cincinnati, OH</span></li>
+                    <li id="info"><span class="txt">Part-Time Kitchen Staff</span></li>
+                    <li id="info">Prepared food, completed transactions over the phone
+                    and in person, and maintained cleanliness of the store.</li>
+
+            </ul>
+            </div>
+        <div class="col-xs-6">
+            <ul id="col-2-1">
+                <li id="header"><b>Honors and Activities</b></li>
+                <li id="info">Cincinnatus Scholar
+                </li>
+                <li id="info">The Denton Affair (community theater group)</li>
+                <li id="info">The EDGE teen center volunteer</li>
+                <li id="info">2017 Artist Immersion Participant (Italy)</li>
+            </ul>
+            <ul id="col-2-2">
+                <li id="header"><b>Skills</b></li>
+                <li id="info">Adobe Illustrator
+                </li>
+                <li id="info">Adobe Photoshop</li>
+                <li id="info">Adobe InDesign</li>
+                <li id="info">Some HTML/CSS and Bootstrap</li>
+                <li id="info">Sketching</li>
+                <li id="info">Oil Painting</li>
+                </ul>
+        </div>
+        </div>
+    </div>
+
+
+
+<footer>
+    <div class="footer">
+        <div class="container">
+            <h3 class="contact text-center"><a id="contact">Contact me</a></h3>
+            <div class="row">
+                <!-- 1-3 -->
+                <div class="col-xs-3"></div>
+                <!-- 4-6 -->
+                <div class="col-xs-3"></div>
+                <!-- 7-9 -->
+                <div class="col-xs-3"></div>
+                <!-- 10-12 -->
+                <div class="col-xs-3"></div>
+
+            </div>
+        </div>
+        <div class="container">
+            <h3 class="phone text-center">(740)-503-0273</h3>
+            <div class="row">
+                <!-- 1-3 -->
+                <div class="col-xs-3"></div>
+                <!-- 4-6 -->
+                <div class="col-xs-3"></div>
+                <!-- 7-9 -->
+                <div class="col-xs-3"></div>
+                <!-- 10-12 -->
+                <div class="col-xs-3"></div>
+
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <!-- 1-3 -->
+                <div class="col-xs-3"></div>
+                <!-- 4-6 -->
+                <div class="col-xs-3">
+                    <div class="pull-right">
+                        <a target="_blank" class="contact-icon"
+                           href="mailto:mortonse@mail.uc.edu">
+                            <i class="fa fa-envelope-o fa-3x" aria-label="Email"></i>
+                        </a>
+                    </div>
+                </div>
+                <!-- 7-9 -->
+                <div class="col-xs-3">
+                    <div class="pull-left">
+                        <a target="_blank" class="contact-icon"
+                           href="https://www.linkedin.com/in/sarah-morton-390057139/">
+                            <i class="fa fa-linkedin fa-3x"></i>
+                        </a>
+                    </div>
+                </div>
+                <!-- 10-12 -->
+                <div class="col-xs-3"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-4">
+                        </div>
+                        <div class="col-xs-8">
+                            <h6>Developed and designed by Sarah Morton</h6>
+
+                        </div>
+
+                    </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
